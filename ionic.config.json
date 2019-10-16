@@ -1,5 +1,7 @@
 {
   "name": "PRIMobile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
